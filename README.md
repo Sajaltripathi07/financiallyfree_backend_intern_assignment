@@ -160,15 +160,6 @@ vehicle-dashboard/
    - QoQ compares consecutive quarters
    - Growth rates are percentage changes
 
-## 📹 Video Walkthrough
 
-[Link to video walkthrough will be added here]
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 📬 Contact
-
-For any questions or feedback, please open an issue in the repository.
 
