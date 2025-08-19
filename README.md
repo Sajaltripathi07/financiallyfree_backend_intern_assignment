@@ -1,4 +1,4 @@
-# Vehicle Registration Dashboard
+# AutoInsights – Vehicle Registration Analytics Dashboard
 
 An interactive dashboard for analyzing vehicle registration data with an investor's perspective. This dashboard provides insights into vehicle registration trends, year-over-year (YoY) and quarter-over-quarter (QoQ) growth rates, and manufacturer performance.
 
@@ -159,6 +159,7 @@ vehicle-dashboard/
    - YoY compares same months across years
    - QoQ compares consecutive quarters
    - Growth rates are percentage changes
+
 
 
 
